@@ -1,4 +1,4 @@
-_Rainfall Prediction using Machine Learning_ 
+_🌦️ Rainfall Prediction using Machine Learning_ 
 
 This project aims to predict whether rainfall will occur based on various weather conditions like temperature, humidity, cloud cover, wind, and atmospheric pressure. The project uses a Random Forest Classifier to build a binary classification model and includes complete steps from data preprocessing to model deployment.
 
